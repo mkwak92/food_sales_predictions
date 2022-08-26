@@ -26,18 +26,26 @@ Make predictions about future sales based on provided data about food, item weig
 
 
 ## Methods
-- Data preparation steps with explanation and justification for choices
-- 
+- Load Data
+- Data Cleaning (missing values, duplicate values, null values)
+- Preprocessing
+- Exploratory Vizulations
+- Explantatory Vizulations
+- Machine Learning
+- Preprocessing
+- Train/Test Split
+- Regression Metrics
 
 ## Results
 
 ### Here are examples of how to embed images from your sub-folder
 
 
-#### Visual 1 Title
-![sample image](project1_sample_image.png)
+#### Outlet Sales vs Unique Store
+![OutletSales_Outlet_ID](https://user-images.githubusercontent.com/109184607/186799074-e3101c2d-4273-40e0-933c-8de417fb1cd3.png)
 
-> Sentence about visualization.
+
+> This shows the Outlet sales vs the specific sale.
 
 #### Visual 2 Title
 
