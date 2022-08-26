@@ -47,8 +47,12 @@ Make predictions about future sales based on provided data about food, item weig
 
 > This shows the Outlet sales vs the specific sale.
 
-#### Visual 2 Title
-
+#### 
+![image](https://user-images.githubusercontent.com/109184607/186799205-2ea7071c-6079-48bf-ac10-ecb417f5235f.png)
+- The visual above shows effects of Outlet Size, Outlet Type, and Outlet Location versus sales. 
+- The Medium sized outlet scored the highest sales, but there does seem to be much difference the medium size and high size. It makes sense that the small size outlet had the least amount of sales. 
+- The data dictionary did not provide any detail on what it means to be a different type of supermarket, but the Supermarket Type3 exceeded well more than any other type of grocery store or supermarket. 
+- The Location vs Sales, there does not seem to be much difference in location and their respective sales. Again, the data dictionary does not provide what it means to be in each Tier. 
 ## Model
 
 Describe your final model
