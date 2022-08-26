@@ -70,20 +70,6 @@ X Test Set:<br/>
 - RMSE: 1046.739,<br/>  
 - R^2: 0.6028<br/> 
 
-
-Refer to the metrics to describe how well the model would solve the business problem
-
-## Recommendations:
-
-More of your own text here
-
-
-## Limitations & Next Steps
-
-More of your own text here
-
-
 ### For further information
 
-
-For any additional questions, please contact **email**
+For any additional questions, please contact **matthewkwak4@gmail.com**
