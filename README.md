@@ -2,9 +2,9 @@
 
 
 # Predicting Sales of Grocery/Supermarket Outlets
-## Subtitle describing the analysis 
+##  The goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales
 
-**Author**: 
+**Author**: Matthew Kwak
 
 ### Business problem:
 Make predictions about future sales based on provided data about food, item weight, fat content, store size, and other relevant items
